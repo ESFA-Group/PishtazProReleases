@@ -20,7 +20,7 @@
 
 - Relay details is included in every page header and footer
 
-![report-bay](../../../images/release-notes/v1.1.2/report-logic.jpg)
+![report-header](../../../images/release-notes/v1.1.2/report-header.jpg)
 
 ## Firmware Updater 
 
