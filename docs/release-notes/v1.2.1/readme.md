@@ -2,7 +2,7 @@
 
 ## Pishtaz System Configurator new look and face
 
-![PISHTAZ_System_Configurator](../../images/release-notes/v1.2.0/PISHTAZ_System_Configurator.png)
+![PISHTAZ_System_Configurator](../../images/release-notes/v1.2.1/PISHTAZ_System_Configurator.png)
 
 - Improve core library
 - Improve UI/UX
@@ -19,49 +19,49 @@
 
 ## Show alarm when setting value is invalid (out of range, not defined) 
 
-![invalid-value-alarm](../../images/release-notes/v1.2.0/InvalidValueAlarm.png)
+![invalid-value-alarm](../../images/release-notes/v1.2.1/InvalidValueAlarm.png)
 
 ---
 
 ## Support Xrio files (Custom Block)
 
-![XRIO](../../images/release-notes/v1.2.0/XRIO.png)
+![XRIO](../../images/release-notes/v1.2.1/XRIO.png)
 
 ---
 
 ## Add telegram bot for release notification
 
-![TelegramBot](../../images/release-notes/v1.2.0/TelegramBot.jpg)
+![TelegramBot](../../images/release-notes/v1.2.1/TelegramBot.jpg)
 
 ---
 
 ## Add User Manual 
 
-![UserManual](../../images/release-notes/v1.2.0/UserManual.png)
+![UserManual](../../images/release-notes/v1.2.1/UserManual.png)
 
 ---
 
 ## Export Settings Excel File
 
-![SettingsExcelFile](../../images/release-notes/v1.2.0/SettingsExcelFile.png)
+![SettingsExcelFile](../../images/release-notes/v1.2.1/SettingsExcelFile.png)
 
 ---
 
 ## Add Modbus TCP settings 
 
-![ModbusTcp](../../images/release-notes/v1.2.0/ModbusTcp.png)
+![ModbusTcp](../../images/release-notes/v1.2.1/ModbusTcp.png)
 
 ---
 
 ## Notify when new version released.
 
-![NewReleaseNotification](../../images/release-notes/v1.2.0/NewReleaseNotification.png)
+![NewReleaseNotification](../../images/release-notes/v1.2.1/NewReleaseNotification.png)
 
 ---
 
 ## Prompt when exiting from maintenance mode 
 
-![MaintenanceMode](../../images/release-notes/v1.2.0/MaintenanceMode.png)
+![MaintenanceMode](../../images/release-notes/v1.2.1/MaintenanceMode.png)
 
 ---
 
