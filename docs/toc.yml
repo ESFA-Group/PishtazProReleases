@@ -6,3 +6,5 @@
   items: 
     - name: v1.1.2
       href: release-notes\v1.1.2\readme.md
+    - name: v1.2.0
+      href: release-notes\v1.2.0\readme.md
