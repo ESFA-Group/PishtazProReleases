@@ -1,4 +1,4 @@
-# What's New in 1.2.0
+# What's New in 1.2.1
 
 ## Pishtaz System Configurator new look and face
 
