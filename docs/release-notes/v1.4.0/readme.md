@@ -1,6 +1,6 @@
 # What's New in 1.4.0
 
-## XRIO: Fully Supported and Superior to Siemens!
+## XRIO: Fully Supported and Superior to Digsi (Siemens)!
 
 ![XRIO: Fully Supported and Superior to Siemens](../../images/release-notes/v1.4.0/xrio.jpg)
 ![XRIO: Fully Supported and Superior to Siemens](../../images/release-notes/v1.4.0/xrio-2.jpg)
