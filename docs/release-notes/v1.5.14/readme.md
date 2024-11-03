@@ -62,9 +62,9 @@ and more
 
 
 ## Other improvements
-- Show advanced settings based on relay model
-- Confirm when setting file with different relay specification is imported
-- Add UI for new settings
-- Fix active function status for power protection stage 5/6 
-- Fix bugs 
-- UI/UX improvements
+- Fix active function status for VTFF.
+- Fix bugs.
+- UI/UX improvements.
+- Read/Write bay schema with Read from relay and Write to relay.
+- Add firmware 1.1.15 support.
+- Show Relay Model and Serial Number on software title
