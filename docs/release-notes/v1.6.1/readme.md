@@ -5,7 +5,7 @@
 ![Unsaved changes](../../images/release-notes/v1.6.1/settings-diff-1.jpg)
 ![Unsaved changes](../../images/release-notes/v1.6.1/settings-diff-2.jpg)
 
----
+<!-- ---
 
 ## Update bay templates  
 
@@ -19,7 +19,7 @@
 ![Motor Bay Template](../../images/release-notes/v1.6.1/motor-bay-template.jpg)
 
 # Busbar Bay Template
-![Busbar Bay Template](../../images/release-notes/v1.6.1/busbar-bay-template.jpg)
+![Busbar Bay Template](../../images/release-notes/v1.6.1/busbar-bay-template.jpg) -->
 
 ---
 
