@@ -4,9 +4,17 @@
 
 ## Add support for firmware 1.2.0!
 
-- Add security events in recorders
 - Add SEF and VZero analog signals
 - Add Unrestrain Restricted Earth Fault digital signals
+
+### Add security events in recorders
+![security events](../../images/release-notes/v1.7.0/security-events.jpg)
+
+### Add Control Objects in Measurements
+![control objects](../../images/release-notes/v1.7.0/control-objects.jpg)
+
+### Add True RMS in Measurements
+![True RMS](../../images/release-notes/v1.7.0/true-rms.jpg)
 
 ---
 
@@ -63,6 +71,10 @@
 
 ---
 
+## Write settings progressbar
+![write settings progressbar](../../images/release-notes/v1.7.0/write-settings-progress.jpg)
+
+---
 
 ## Other improvements
 - New software dialog button "Download Now" opens (pishtazrelay.com)
