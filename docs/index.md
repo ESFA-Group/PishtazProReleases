@@ -2,7 +2,7 @@
 
 ### Release Notes
 
-- [v1.8.2](/PishtazProReleases/release-notes/v1.8.3/readme.html)
+- [v1.8.3](/PishtazProReleases/release-notes/v1.8.3/readme.html)
 - [v1.7.4](/PishtazProReleases/release-notes/v1.7.4/readme.html)
 - [v1.6.8](/PishtazProReleases/release-notes/v1.6.8/readme.html)
 - [v1.5.14](/PishtazProReleases/release-notes/v1.5.14/readme.html)
