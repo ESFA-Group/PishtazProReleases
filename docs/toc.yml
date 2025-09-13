@@ -18,5 +18,10 @@
       href: release-notes\v1.6.8\readme.md
     - name: v1.7.4
       href: release-notes\v1.7.4\readme.md
+<<<<<<< HEAD
+    - name: v1.8.3
+      href: release-notes\v1.8.3\readme.md
+=======
     - name: v1.8.2
       href: release-notes\v1.8.2\readme.md
+>>>>>>> 34269536e79ad437ab30ecd3ea015d7e6031c161
