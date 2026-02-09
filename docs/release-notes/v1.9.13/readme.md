@@ -46,6 +46,16 @@
 
 ![Add new points in logic signals](../../images/release-notes/v1.9.13/clock.jpg)
 
+---
+
+## Add Motor Protection Functions in XRIO File
+
+Added support for exporting motor protection functions in XRIO file format, including:
+- **51LR (Locked Rotor Protection)**: Provides protection against locked rotor conditions with configurable overcurrent characteristics
+- **49M (Motor Thermal Overload Protection)**: Thermal overload protection using Siemens Overload characteristic curve with adjustable parameters (A, P, Q, Time Index) and reset characteristics
+
+![Add Motor Protection Functions in XRIO File](../../images/release-notes/v1.9.13/xrio.jpg)
+
 ----------------------
 
 
