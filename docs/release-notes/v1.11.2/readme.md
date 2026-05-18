@@ -2,55 +2,60 @@
 
 ---
 
-## Export only filtered items in Events, Security Event, Fault Log and Disturbance Recorder
+## 📤 Export Only Filtered Items in Events, Security Events, Fault Log, and Disturbance Recorder
 
 ![Export filtered items](../../images/release-notes/v1.11.2/export_filtered_1.jpg)
 ![Export filtered items](../../images/release-notes/v1.11.2/export_filtered_2.jpg)
 
+- Users can now export only the filtered items from the Events, Security Events, Fault Log, and Disturbance Recorder views, allowing for more focused and efficient data extraction.
+
 ----------------------
 
-## Logic Editor Improvement
+## 🛠️ Logic Editor Improvements
 
 ![Logic Editor Improvement](../../images/release-notes/v1.11.2/logic.jpg)
 
-- Auto layout improvement
-- Add undo/redo feature
-- Pan with Scroll and Shift + Scroll (Horizontal)
-- Move elements in specific steps.
+- Enhanced auto-layout algorithm for improved diagram readability.
+- Introduced undo/redo functionality for greater editing flexibility.
+- Added panning support using Scroll (vertical) and Shift + Scroll (horizontal).
+- Enabled precise element movement in defined step increments.
 
 ----------------------
 
-## Show logs in docking panel
+## 📋 View Logs in Docking Panel
 
 ![Logs](../../images/release-notes/v1.11.2/logs.jpg)
 
+- Application logs are now accessible directly within a dedicated docking panel for easier monitoring and troubleshooting.
+
 ----------------------
 
-## Set firmware version when adding new device
+## 🔧 Specify Firmware Version When Adding a New Device
 
 ![Firmware Version](../../images/release-notes/v1.11.2/new_device_with_firmware.jpg)
 
-- User can set firmwre version in add device popup. Some features are not available for older devices. 
+- Users can now specify the firmware version directly within the Add Device dialog. Please note that certain features may not be available on older firmware versions.
 
 ----------------------
 
-## Enable/Disable data model point
+## ⚙️ Enable / Disable Data Model Points
 
 ![Enable data model point](../../images/release-notes/v1.11.2/TogglableSettings.jpg)
 
-- User can enable/disable points. Up to 5 enabled logical devices is supported for edition 1.
+- Users can now enable or disable individual data model points. Up to five enabled logical devices are supported in Edition 1.
 
 ----------------------
 
-## Undervoltage Equivalent Value
+## ⚡ Undervoltage Equivalent Value
 
 ![Undervoltage Equivalent Value](../../images/release-notes/v1.11.2/undervoltage_equivalent_value.jpg)
 
-- Update undervoltage equivalent value 
+- Updated the calculation and handling of the undervoltage equivalent value for improved accuracy.
 
 ----------------------
 
-## Add MV/CMV Virtual Point
+## ➕ Added MV / CMV Virtual Points
 
 ![Add Virtual Point](../../images/release-notes/v1.11.2/virtual_point_mv_cmv.jpg)
- 
+
+- Introduced support for MV and CMV virtual points, expanding the range of available data modeling options.
