@@ -2,6 +2,7 @@
 
 ### Release Notes
 
+- [v1.11.24](/PishtazProReleases/release-notes/v1.11.24/readme.html)
 - [v1.11.13](/PishtazProReleases/release-notes/v1.11.13/readme.html)
 - [v1.10.2](/PishtazProReleases/release-notes/v1.10.2/readme.html)
 - [v1.9.13](/PishtazProReleases/release-notes/v1.9.13/readme.html)
