@@ -30,6 +30,8 @@
 
 ## ⚡ Much Faster Data Model Page
 
+![Data model page](../../images/release-notes/v1.11.24/datamodel_performance.jpg)
+
 - Toggling a node in the Data Model page no longer freezes the application. Edits are applied immediately and the dependent pages refresh in the background.
 - The page now builds only the rows that are actually visible instead of the entire model up front, so opening the page, scrolling, and switching devices are all noticeably faster on large data models.
 - The tree was rebuilt on a new virtualized table, which keeps scrolling smooth even on the largest models.
@@ -38,14 +40,18 @@
 
 ## 📑 Report Control Block and Dataset Capacity Limits
 
+![Report control block and dataset capacity](../../images/release-notes/v1.11.24/report_capacity.jpg)
+
 - A device can hold 20 buffered report control block instances, and that budget is now enforced and shown in the user interface instead of failing later when writing to the device. A block configured for several clients is instantiated once per client, so it uses that many of the budget; unbuffered blocks are not limited and do not count.
 - The 100 data object per dataset limit is enforced and surfaced as you build a dataset, in both the Reports and GOOSE editors, and the count now updates immediately when an FCDA is deleted.
 - Report control blocks are badged with their type (URCB / BRCB) and their configured client count, so the list can be read at a glance.
-- Report control block and GOOSE publisher properties now carry descriptions taken from IEC 61850, shown as tooltips in the property grid.
+- Report control block and GOOSE publisher properties now carry descriptions taken from IEC 61850, shown in the property grid as each property is selected.
 
 ----------------------
 
 ## 📡 GOOSE Improvements
+
+![GOOSE publishers](../../images/release-notes/v1.11.24/goose.jpg)
 
 - GOOSE publisher MAC addresses are now written in uppercase, and new publishers are automatically allocated an address that does not collide with an existing one.
 - The source catalog now shows every GOOSE source of a data object rather than only the first one.
@@ -123,6 +129,8 @@
 ----------------------
 
 ## 📖 User Manual
+
+![System Configurator user manual](../../images/release-notes/v1.11.24/user_manual.jpg)
 
 - A System Configurator user manual is now shipped with the application, in both English and Persian.
 
